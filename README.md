@@ -19,6 +19,7 @@ I’m actively seeking new opportunities in **business analytics**: Data Analyst
 - **Python (Basic):** Data analysis and automation
 - **AI:** Leveraging AI tools to amplify my impact and accelerate learning
 - **Process Mapping & Improvement:** Identifying bottlenecks, streamlining processes, and boosting efficiency
+- **Communication & Proactivity:** I believe that clear communication, proactive problem-solving, and a fearless attitude are the keys to making a real impact in business environments.
 
 ---
 
