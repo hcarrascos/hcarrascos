@@ -25,7 +25,7 @@ I’m actively seeking new opportunities in **business analytics**: Data Analyst
 
 ## 🚀 Highlight Project: RPA Sales Entry Automation
 
-One of my proudest achievements was **automating the sales-entry process** at my company. I identified a repetitive, error-prone workflow and took the initiative to:
+One of my proudest achievements was automating the sales-entry process at the company I was working for. I identified a repetitive, error-prone workflow and took the initiative to:
 
 - Learn RPA automation, SQL, and Python from scratch
 - Integrate AI to optimize and error-proof data handling
